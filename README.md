@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/8293321/150756129-df9990c2-cdc0-4c6e-b3ae-3d17079968c5.png" width="200px" alt="Interactsh"></a>
+---
 # Reflect XSS Fuzzer Detector
 
 Welcome to the **Reflect XSS Fuzzer Detector**! 🚀 This tool is designed to help you detect **Reflected Cross-Site Scripting (XSS)** vulnerabilities in web applications. By simulating malicious inputs, this fuzzer allows you to identify potential security flaws that could be exploited by attackers.
