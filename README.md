@@ -1,4 +1,4 @@
-<img src="https://github.com/farnazzohori/mytool/blob/main/banner.png?raw=true" width="600px" alt="Interactsh"></a>
+<img src="https://github.com/farnazzohori/mytool/blob/main/banner.png?raw=true" width="800px" alt="Interactsh"></a>
 ---
 # Reflect XSS Fuzzer Detector
 
